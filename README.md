@@ -1,4 +1,4 @@
-# Melomind
+# 🎵Melomind
 
 Melomind is an emotion-based music recommender system designed to provide a unique and personalized music streaming experience. By utilizing facial emotion detection technology, Melomind analyzes the user's emotions in real-time and recommends songs that match their mood, ensuring a deeply engaging musical journey.
 
